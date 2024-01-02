@@ -1,4 +1,3 @@
-  GNU nano 7.2                                                                                          gates.c                                                                                                    
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

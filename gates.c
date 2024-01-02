@@ -39,7 +39,7 @@ int main(int, char **);
 float rand_float(void);
 float cost(float, float, float);
 
-loat sigmoid(float);
+float sigmoid(float);
 
 float sigmoidf(float x) // sigmoid function
 {
